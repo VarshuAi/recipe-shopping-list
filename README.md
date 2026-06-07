@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Create grocery and meal lists grouped by standard sections.
+  name: recipe-shopping-list version: 1.0 type: Repository author: VarshuAi description: >   Create grocery and meal lists grouped by standard sections. primary_tech: CSS
 primary_tech: CSS
 ```
 
